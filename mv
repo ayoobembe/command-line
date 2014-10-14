@@ -1,0 +1,3 @@
+mv: This command is used to move files from one place in the computer to another
+  Usage:
+  mv ~/foo/bar.txt ~/foo/foo_subdirectory/bar.txt
