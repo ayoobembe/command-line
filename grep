@@ -1,0 +1,3 @@
+grep: Used to search within a file (or stream?) for a word. It uses a regex to represent the word (I think?).
+  Usage:
+  grep move mv
